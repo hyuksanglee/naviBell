@@ -1,4 +1,4 @@
-export function DeparturePlannerPage() {
+export function DeparturePlannerWidget() {
   return (
     <main className="page-shell">
       <section className="planner">
