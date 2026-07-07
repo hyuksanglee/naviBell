@@ -1,5 +1,5 @@
 import { DeparturePlannerWidget } from "../widgets/departure-planner";
 
-export default function Page() {
+export function App() {
   return <DeparturePlannerWidget />;
 }
