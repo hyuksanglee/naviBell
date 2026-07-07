@@ -1,5 +1,5 @@
-import { DeparturePlannerWidget } from "../widgets/departure-planner";
+import { HomeDashboardWidget } from "../widgets/home-dashboard";
 
 export function App() {
-  return <DeparturePlannerWidget />;
+  return <HomeDashboardWidget />;
 }
